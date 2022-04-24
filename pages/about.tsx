@@ -9,7 +9,7 @@ export const About = (): JSX.Element => {
       }}
     >
       <h1>Daniel Yu</h1>
-      <p></p>
+      <p>Cloud-Native enthusiast, interested in DevOps, SRE and platform engineering. Father of 2. WFH.</p>
     </Layout>
   );
 };
